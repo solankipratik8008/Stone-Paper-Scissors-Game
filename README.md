@@ -9,7 +9,7 @@ This is a simple Rock Paper Scissors game built with Python using the `tkinter` 
 - Displays both choices and the result
 - Lightweight and easy to run
 
-## 📸 Screenshot
+
 
 > *(Add a screenshot here if you'd like)*
 
