@@ -11,7 +11,6 @@ This is a simple Rock Paper Scissors game built with Python using the `tkinter` 
 
 
 
-> *(Add a screenshot here if you'd like)*
 
 ## 🚀 How to Run
 
